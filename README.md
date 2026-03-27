@@ -48,7 +48,7 @@ The cleaned data was imported into Power BI to create a Dashboard and 5-page det
 **Cast Analysis**: Identified "Anchor Stars" who drive massive engagement in regional markets (e.g., Bollywood veteran actors).
 
 ### Key Business Findings
-**Freshness-First Strategy**: 55% of Netflix’s library consists of New Releases, indicating a heavy reliance on high-frequency content cycles to drive monthly active users (MAU).
+**Freshness-First Strategy**: 50% of Netflix’s library consists of New Releases, indicating a heavy reliance on high-frequency content cycles to drive monthly active users (MAU).
 
 **Regional Pivot**: India has emerged as the clear #2 market (972 titles), suggesting a successful strategic shift toward the Asian market to offset Western saturation.
 
